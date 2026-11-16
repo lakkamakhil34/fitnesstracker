@@ -1,4 +1,4 @@
-README
+
 🏋️ Fitness Workout Tracker
 📌 Project Overview
 Fitness Workout Tracker is a full-stack web application developed to manage and track users' workout activities.
